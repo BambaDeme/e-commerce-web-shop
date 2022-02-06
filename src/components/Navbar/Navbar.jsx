@@ -17,7 +17,7 @@ const Navbar = () => {
                         Commerce.js
                     </Typography>
                     <div className={classes.grow}/>
-                    <div classname={classes.button}>
+                    <div className={classes.button}>
                         <IconButton aria-label='Show cart items' color="inherit">
                             <Badge badgeContent={2} color="secondary">
                                 <ShoppingCart />
